@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BiometricAuthentication</string>
+    <string name="secret_message">Top secret message</string>
+    <string name="bt_authenticate">Authenticate</string>
+</resources>
